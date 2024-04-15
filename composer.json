@@ -59,7 +59,7 @@
 		"cedaro/wp-test-suite": "dev-develop",
 		"dealerdirect/phpcodesniffer-composer-installer": "^0.7.1",
 		"phpcompatibility/phpcompatibility-wp": "^2",
-		"phpunit/phpunit": "^7.5",
+		"phpunit/phpunit": "^10.0",
 		"roave/security-advisories": "dev-latest",
 		"squizlabs/php_codesniffer": "^3.3",
 		"wordpress/wordpress": "^5.1",
